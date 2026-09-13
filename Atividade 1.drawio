@@ -1,0 +1,218 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="YVGpw9jEiZ2_Q9445ucZ">
+    <mxGraphModel dx="2238" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uhfvzVa6BRzT1cedoAq--1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Professor: Ministra conteúdo orientando o aulo" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Metade:Usam aparelho celular" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--9" edge="1" parent="1" source="uhfvzVa6BRzT1cedoAq--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Outra metade: Usam computador&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Alunos" vertex="1">
+          <mxGeometry height="30" width="60" x="140" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--6" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="280" />
+              <mxPoint x="50" y="230" />
+            </Array>
+            <mxPoint x="30" y="220" as="sourcePoint" />
+            <mxPoint x="100" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--11" edge="1" parent="1" source="uhfvzVa6BRzT1cedoAq--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210.33333333333337" y="300.33333333333337" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--12" edge="1" parent="1" source="uhfvzVa6BRzT1cedoAq--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--15" edge="1" parent="1" source="uhfvzVa6BRzT1cedoAq--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--17" edge="1" parent="1" source="uhfvzVa6BRzT1cedoAq--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--10" parent="1" style="whiteSpace=wrap;html=1;" value="Recebem conteúdo, participa das aulas online fazem trabalhos, tiram duvida e entregam atividades." vertex="1">
+          <mxGeometry height="70" width="130" x="90" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Aparelhos celulares cerca de 50% da sala usam" vertex="1">
+          <mxGeometry height="60" width="120" x="-50" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Computador cerca de 50% da sala usam mais o orientador" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--29" edge="1" parent="1" source="uhfvzVa6BRzT1cedoAq--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--31" edge="1" parent="1" source="uhfvzVa6BRzT1cedoAq--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uhfvzVa6BRzT1cedoAq--26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Todos tem acesso tanto ao wi-fi com dados móveis" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="conteúdos&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="-50" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Google sala aula, whatsapp, plataforma da escola" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--33" edge="1" parent="1" source="uhfvzVa6BRzT1cedoAq--32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uhfvzVa6BRzT1cedoAq--30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Discute sobre o conteúdo pelo&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="-50" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--35" edge="1" parent="1" source="uhfvzVa6BRzT1cedoAq--34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="uhfvzVa6BRzT1cedoAq--30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Produzem trabalho pelo&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--38" edge="1" parent="1" source="uhfvzVa6BRzT1cedoAq--36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="A entrega do trabalho ocorre pelo: e-mail, whatsapp, plataforma sala de aula." vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="O armazenamento os dados pelo google drive, nuvem, arquivo pessoal." vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--43" edge="1" parent="1" source="uhfvzVa6BRzT1cedoAq--42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--46" edge="1" parent="1" source="uhfvzVa6BRzT1cedoAq--42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="439.9999999999998" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--50" edge="1" parent="1" source="uhfvzVa6BRzT1cedoAq--42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--42" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Dependências que mais atrapalham se falharem&amp;nbsp;" vertex="1">
+          <mxGeometry height="110" width="110" x="330" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Internet: sem internet&amp;nbsp; serviços online não funcionam&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Plataformas principais: se cair ninguém acessa conteúdo ou entrega" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--53" edge="1" parent="1" source="uhfvzVa6BRzT1cedoAq--51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Se a internet falha: Não tem acesso a nenhum dispositivo online, para quem usam apenas aparelho celular ficam sem alternativa" vertex="1">
+          <mxGeometry height="100" width="150" x="470" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--57" edge="1" parent="1" source="uhfvzVa6BRzT1cedoAq--54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Quem fica excluido: Alunos que usam apenas celulares e dados móveis limitados se caso acabar os dados ou o sinal cair.Quem não tem dados móveis depende do wi-fi da unidade escolar" vertex="1">
+          <mxGeometry height="110" width="160" x="690" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--63" edge="1" parent="1" source="uhfvzVa6BRzT1cedoAq--58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="uhfvzVa6BRzT1cedoAq--61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Dados que necessitam ser armazenados e onde: conteúdos, materiais de ensino precisam ser armazenado numa pasta de downloads, nuvem ou ter copia do dispositivo de trabalho." vertex="1">
+          <mxGeometry height="110" width="170" x="600" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Existe dependência excessiva de uma única ferramenta: Sim, pois muitos depende de uma única ferramenta com plataforma de ensino, apps onde ficam armazenados seus pontos de referencias chaves." vertex="1">
+          <mxGeometry height="140" width="150" x="414" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--66" edge="1" parent="1" source="uhfvzVa6BRzT1cedoAq--64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--64" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;PLANO B&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="610" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--67" edge="1" parent="1" source="uhfvzVa6BRzT1cedoAq--65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--65" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Se a internet cair ou plataforma falhar" vertex="1">
+          <mxGeometry height="80" width="80" x="630" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--69" edge="1" parent="1" source="uhfvzVa6BRzT1cedoAq--68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Baixar o material com antecedência&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="790" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--71" edge="1" parent="1" source="uhfvzVa6BRzT1cedoAq--70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Salvar copias do trabalho no próprio aparelho celular ou computador" vertex="1">
+          <mxGeometry height="60" width="120" x="707" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--73" edge="1" parent="1" source="uhfvzVa6BRzT1cedoAq--72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="564" y="870" />
+              <mxPoint x="517.47" y="870" />
+              <mxPoint x="517.47" y="820" />
+              <mxPoint x="470" y="820" />
+            </Array>
+            <mxPoint x="470" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Usar comunidade offine, mensagem de texto com reserva&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="564" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--75" edge="1" parent="1" source="uhfvzVa6BRzT1cedoAq--74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Envios de atividades por e-mail ou mensagens diretas" vertex="1">
+          <mxGeometry height="60" width="120" x="414" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--81" edge="1" parent="1" source="uhfvzVa6BRzT1cedoAq--76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uhfvzVa6BRzT1cedoAq--80" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sempre disponibilizar material para download para uso caso fiquem sem internet" vertex="1">
+          <mxGeometry height="90" width="140" x="290" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="uhfvzVa6BRzT1cedoAq--80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Utilizar mais canais de comunicação de entrega de atividade." vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="785" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
